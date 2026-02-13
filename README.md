@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- I'm currently learning Java and Python.
 <!--
 **Fynn-16/Fynn-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
